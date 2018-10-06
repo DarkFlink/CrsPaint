@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Resource/floodfill32.png</file>
+        <file>Resource/line32.png</file>
+        <file>Resource/hmirror32.png</file>
+        <file>Resource/vmirror32.png</file>
+        <file>Resource/star32.png</file>
+        <file>Resource/circle32.png</file>
+        <file>Resource/eraser32.png</file>
+        <file>Resource/CP44.png</file>
+    </qresource>
+</RCC>
