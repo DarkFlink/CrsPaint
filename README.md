@@ -1,1 +1,1 @@
-graphical editor
+my own graphical editor
